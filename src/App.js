@@ -28,7 +28,7 @@ function App() {
           <Link to={"/about"}>About</Link> | 
           <Link to={"/map"}>Map</Link>
           </p>
-          v0.1
+          Demo v1.0
         </header>
         </div>
       </BrowserRouter> 
