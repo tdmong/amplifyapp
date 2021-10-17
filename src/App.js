@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
-import splash from './media/splash.PNG';
+import splash from './media/neighborhoodSplash.png';
 
 import './App.css';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
